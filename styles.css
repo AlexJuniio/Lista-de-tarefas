@@ -8,6 +8,12 @@
     font-family: 'Poppins', sans-serif;
 }
 
+h1 {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
+
 body {
     height: 100vh;
     background: linear-gradient(90deg, #19549A, #4ABFD9);
